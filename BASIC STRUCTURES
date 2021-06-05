@@ -1,0 +1,67 @@
+#include <iostream>
+
+using namespace std;
+
+// COMMENTS
+/*  COMMENTS
+THAT
+INVOLVE
+VARIOUS
+LINES
+*/
+/// MORE COMMENTS
+
+//DECLARING VARIABLES
+type name=value //initializing is optional
+
+//BASIC TYPES
+int
+float
+char
+string
+bool
+
+//INPUT AND DISPLAY OF VARIABLES (BASIC) USING THE #include <iostream> library
+cout<<"Text";
+cout<<variable;
+cin<<variable;
+
+
+
+    //CONDITIONAL STRUCTURES
+    
+//if and if-else
+
+if (variable!=value)
+  {
+    //SET OF INSTRUCTIONS
+  }
+  
+  
+  
+    // LOOPS 
+  
+  
+//WHILE//
+  
+  while (CRITERIA, e.g. variable<=5)
+  {
+    //SET OF INSTRUCTIONS
+  }
+  
+  
+//DO-WHILE
+
+
+do {
+//SET OF INSTRUCTIONS
+}while (CRITERIA, e.g. variable<=5)
+
+
+
+//FOR
+
+for ( init; condition; increment ) {
+   statement(s);
+}
+
